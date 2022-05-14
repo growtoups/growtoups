@@ -11,8 +11,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 <br />
 
 ### Languages and Tools:
@@ -33,3 +33,4 @@
 ---
 
 [instagram]: https://www.instagram.com/nathan_laviolette____/
+[discord]: https://discord.gg/ZGy8kt6WUt
