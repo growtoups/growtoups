@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play video games and work on my api
+- ⚡ Fun fact: I love to play video games and work on my file sharing app
 
 ### Connect with me:
 
